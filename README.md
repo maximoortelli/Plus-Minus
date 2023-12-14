@@ -60,6 +60,10 @@ Note: This challenge introduces precision problems. The test cases are scaled to
        <img src="https://skillicons.dev/icons?i=nodejs"/>
        <a href="https://developer.mozilla.org/en-US/docs/Web/Node.js">Node.js</a>
      </li>
+     <li>
+       <img src="https://skillicons.dev/icons?i=hackerrank"/>
+       <a href="https://developer.mozilla.org/en-US/docs/Web/HackerRank">HackerRank</a>
+     </li>
   </ul>
 
 ---
