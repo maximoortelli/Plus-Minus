@@ -57,7 +57,7 @@ Note: This challenge introduces precision problems. The test cases are scaled to
        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>
      </li>
      <li>
-       <img src="https://skillicons.dev/icons?i=node"/>
+       <img src="https://skillicons.dev/icons?i=node.js"/>
        <a href="https://developer.mozilla.org/en-US/docs/Web/Node.js">Node.js</a>
      </li>
   </ul>
