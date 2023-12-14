@@ -61,7 +61,7 @@ Note: This challenge introduces precision problems. The test cases are scaled to
        <a href="https://developer.mozilla.org/en-US/docs/Web/Node.js">Node.js</a>
      </li>
      <li>
-       <img src="https://skillicons.dev/icons?i=hackerrank"/>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"/>
        <a href="https://developer.mozilla.org/en-US/docs/Web/HackerRank">HackerRank</a>
      </li>
   </ul>
