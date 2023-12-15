@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-    <h1><b>Plus Minus Challenge</b></h1>
+    <h1><b>Plus Minus Hacker Rank</b></h1>
 </div>
 
 ---
@@ -32,7 +32,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Plus Minus <a name="about-project"></a>
+# 📖 Plus Minus HackerRank<a name="about-project"></a>
 
 **Plus Minus** Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero. Print the decimal value of each fraction on a new line with  places after the decimal.
 
