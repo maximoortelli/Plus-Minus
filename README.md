@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-    <h1><b>Plus Minus Challenge</b></h1>
+    <h1><b>Plus Minus Hacker Rank</b></h1>
 </div>
 
 ---
