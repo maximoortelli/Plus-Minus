@@ -27,7 +27,6 @@
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
 ---
@@ -131,16 +130,6 @@ Contributions, issues, and feature requests are welcome!
 ## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐ if you liked this project!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I thank Microverse for this fantastic opportunity.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
