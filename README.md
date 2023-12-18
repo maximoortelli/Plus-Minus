@@ -1,5 +1,3 @@
->[!NOTE]
-
 <a name="readme-top"></a>
 
 <div align="center">
@@ -11,7 +9,8 @@
 
 <!-- TABLE OF CONTENTS -->
 
-# 📗 Table of Contents
+> [!IMPORTANT]
+> # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
