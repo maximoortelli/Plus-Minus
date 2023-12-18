@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-    <img src="../assets/plusminus"></img>
+    <img src="../assets/plusminus.png"></img>
     <h1><b>Plus Minus Hacker Rank</b></h1>
 </div>
 
